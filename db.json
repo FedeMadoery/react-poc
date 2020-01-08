@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "get milk",
+      "who": "Scott",
+      "dueDate": "2020-01-19",
+      "done": false
+    },
+    {
+      "id": 2,
+      "task": "get broccoli",
+      "who": "Elisabeth",
+      "dueDate": "2020-01-21",
+      "done": false
+    },
+    {
+      "id": 3,
+      "task": "get garlic",
+      "who": "Trish",
+      "dueDate": "2020-01-30",
+      "done": false
+    },
+    {
+      "id": 4,
+      "task": "get eggs",
+      "who": "Josh",
+      "dueDate": "2020-01-15",
+      "done": true
+    },
+    {
+      "id": 5,
+      "task": "get coffee",
+      "who": "Mike",
+      "dueDate": "2001-01-15",
+      "done": false
+    }
+  ]
+}
